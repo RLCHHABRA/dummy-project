@@ -26,7 +26,7 @@ int main()
 	
 //	int choice;
     gotoxy(24,3);
-	printf("******please Enter your choice*******\n\n");
+	printf("****** !! Hello Friends !! please Enter your choice*******\n\n");
 	gotoxy(28,8);
 	printf("<1> Make A New Account");
 	gotoxy(28,10);
